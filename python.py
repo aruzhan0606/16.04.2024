@@ -13,6 +13,6 @@ def add(x):
     listt1.append(x)
     return listt1
 
-print(add({"name":"Aslan",
-           "last_name":"Askarovich",
+print(add({"name":"Talgat",
+           "last_name":"Zhanatuly",
            "Age":"19"}))
